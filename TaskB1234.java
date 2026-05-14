@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class TaskB1234 {
     public void main(String args[]){
-        int nums[] = new int[70];
+        int nums[] = new int[50];
         System.out.println("Цілі числа:");
         Scanner scan = new Scanner(System.in);
         for (int i = 0; i < nums.length; i++){
